@@ -4,7 +4,7 @@ EpsinosDDOS is a powerful tool designed for network security testing.
 
 ## How to Use
 
-1. Navigate to the [Releases section](https://github.com/epsinddos/releases) of this repository.
+1. Navigate to the [Releases section](https://github.com/majaracode/epsinddos/releases) of this repository.
 2. Download the **latest build** available.
 3. Follow the instructions provided in the release or included documentation to get started.
 
